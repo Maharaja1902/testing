@@ -3,4 +3,4 @@ def factorial_ternary(n):
     return 1 if n == 0 else n * factorial_ternary(n - 1)
 
 # Example usage:
-print(factorial_ternary(5))  # Output: 120
+print(factorial_ternary(5))  # Output: 225
